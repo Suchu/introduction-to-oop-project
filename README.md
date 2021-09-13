@@ -33,6 +33,6 @@ Before you continue, ensure you have met the following requirements:
        DanceImpl
 
 * Diagram
-  UML_Diagram.jpg
+  UML_Diagram.png
 
       
