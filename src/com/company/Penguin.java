@@ -20,5 +20,8 @@ public class Penguin extends Bird {
         Penguin pingu = new Penguin("Pingu", "Black & White");
         pingu.speak();
         pingu.fly();
+        pingu.spin();
+        pingu.doTheCaterpillar();
+        pingu.jump();
     }
 }

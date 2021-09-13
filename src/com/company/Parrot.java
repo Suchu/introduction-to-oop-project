@@ -15,5 +15,8 @@ public class Parrot extends Bird {
         Parrot coco = new Parrot("Coco", "green");
         coco.speak();
         coco.fly();
+        coco.spin();
+        coco.doTheCaterpillar();
+        coco.jump();
     }
 }

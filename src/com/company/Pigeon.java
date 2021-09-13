@@ -19,5 +19,8 @@ public class Pigeon extends Bird{
         pippa.speak();
         pippa.fly();
         pippa.eatPizza();
+        pippa.spin();
+        pippa.doTheCaterpillar();
+        pippa.jump();
     }
 }
